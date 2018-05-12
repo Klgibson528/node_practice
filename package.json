@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "DC node practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klgibson528/node_practice.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "K Gibson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Klgibson528/node_practice/issues"
+  },
+  "homepage": "https://github.com/Klgibson528/node_practice#readme",
+  "dependencies": {
+    "marked": "^0.3.19"
+  }
+}
